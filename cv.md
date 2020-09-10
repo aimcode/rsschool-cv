@@ -1,15 +1,15 @@
-##Radik Musin
+## Radik Musin
 
-##Contacts
-  * e-mail:
+## Contacts
+  * e-mail: 
   * discord:
   * telegram:
 
-##Skills
+## Skills
   HTML, CSS, Javascript, Git
 
-##Languages
+## Languages
   * Russian (native speaker)
-  * English (B2)
+  * English (A2)
 
 
